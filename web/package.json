@@ -1,0 +1,29 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "private": true,
+  "browserslist": {
+    "development": [
+      "last 1 version"
+    ],
+    "production": [
+      "defaults"
+    ]
+  },
+  "dependencies": {
+    "@fontsource/instrument-serif": "^5.2.8",
+    "@redwoodjs/forms": "8.9.0",
+    "@redwoodjs/router": "8.9.0",
+    "@redwoodjs/web": "8.9.0",
+    "gsap": "^3.14.2",
+    "p5": "^2.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@redwoodjs/vite": "8.9.0",
+    "@types/p5": "^1.7.7",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19"
+  }
+}
