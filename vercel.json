@@ -1,0 +1,6 @@
+{
+  "buildCommand": "yarn rw build web",
+  "outputDirectory": "web/dist",
+  "installCommand": "yarn install",
+  "framework": null
+}
