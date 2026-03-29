@@ -1,8 +1,5 @@
 <p align="center">
-  <br />
-  <br />
-  <br />
-  <br />
+  <img src="assets/screenshot-breathing.png" alt="DON'T HOLD BACK" width="600" />
 </p>
 
 <h1 align="center">
@@ -62,6 +59,12 @@ Press and hold. Breathe. Let the words appear.
 ```
 
 The irony is intentional — you must *hold* to unlock *don't hold back*.
+
+<p align="center">
+  <img src="assets/screenshot-waiting.png" alt="Waiting — the pulsing ring" width="500" />
+  <br />
+  <em>The void. A ring pulses. Waiting for you.</em>
+</p>
 
 <br />
 
