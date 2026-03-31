@@ -29,6 +29,9 @@
 
 ## What is this?
 
+![Demo](demo.gif)
+
+
 Some things you need to hear more than once.
 
 **DON'T HOLD BACK** is a minimal, meditative web experience built around three words. It's not a website. It's not an app. It's a ritual — something you bookmark and reach for when you need a moment.
